@@ -1,17 +1,17 @@
-[![MasterHead](https://64.media.tumblr.com/311e0cc2da2f4337acc8845da492f306/tumblr_oamzvseFRX1unwasno1_1280.gifv)](https://github.com/R0merol)
-<h1 align="center">Hi 👋, I'm Faris Faikar</h1>
-<h3 align="center">A curious student from Earth</h3>
-<img align="right" alt="Elliot Hacking" width="400" src="https://upgifs.com//img/gifs/vNIOvYaEg6UEw.gif">
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5b1d88f9cc8fedb159735210/1560302563940-G6FI5ZMFI1TGQ5JP947K/ThreeOfJune_Banner01.gif?format=2500w)](https://github.com/R0merol)
+<h1 align="center">Hi, I'm Faris Faikar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Page!;I+do+Python+and+Pygame;Excited+to+learn+new+things;Interested+in+WebDev+and+Back-End;Follow+me+for+more!" alt="Typing SVG" /></a>
+</p>
+<img align="right" alt="Elliot Alderson" width="350" src="https://media2.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=790b7611017faf1f577ba176c0aecf4628c769c0729bff23&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0merol&label=Profile%20views&color=0e75b6&style=flat" alt="r0merol" /> </p>
-
-<p align="left"> <a href="https://twitter.com/farisfaikar_r" target="blank"><img src="https://img.shields.io/twitter/follow/farisfaikar_r?logo=twitter&style=for-the-badge" alt="farisfaikar_r" /></a> </p>
 
 - 🔭 I’m currently working on **a future discord bot which I haven't started yet**
 
 - 🌱 I’m currently learning **Back-End, Javascript, and pretty much all those interesting stuffs**
 
-- 🤝 I’m looking for help with **hactoberfest this year**
+- 🤝 I’m looking for help with **Hacktoberfest this year**
 
 - 💬 Ask me about **Python and Pygame**
 
