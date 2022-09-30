@@ -1,4 +1,3 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5b1d88f9cc8fedb159735210/1560302563940-G6FI5ZMFI1TGQ5JP947K/ThreeOfJune_Banner01.gif?format=2500w)](https://github.com/R0merol)
 <h1 align="center">Hi, I'm Faris Faikar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Page!;I+do+Python+and+Pygame;Excited+to+learn+new+things;Interested+in+WebDev+and+Back-End;Follow+me+for+more!" alt="Typing SVG" /></a>
@@ -24,7 +23,7 @@
 <a href="https://twitter.com/farisfaikar_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farisfaikar_r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/farisfaikar_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farisfaikar_r" height="30" width="40" /></a>
 <a href="https://instagram.com/farisfaikar_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farisfaikar_r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/faris razannafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faris razannafi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsNuyz0uf6EsizhWoBgivDQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faris razannafi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
