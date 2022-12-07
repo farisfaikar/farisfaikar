@@ -37,7 +37,7 @@
 
 <h3 align="left">Activity Graph:</h3>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=r0merol&theme=tokyo-night" alt="r0merol"></p>
+[![R0merol's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=r0merol&theme=tokyo-night)](https://github.com/r0merol/github-readme-activity-graph)
 
 <h3 align="left">Top Repos:</h3>
 
