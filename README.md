@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python and Pygame**
 
-- 📫 How to reach me **farisfrontiers@gmail.com**
+- 📫 How to reach me **farisfaikar.r@gmail.com**
 
 - ⚡ Fun fact **I'm inside your closet**
 
