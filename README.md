@@ -4,7 +4,7 @@
 </p>
 <img align="right" alt="Elliot Alderson" width="350" src="https://media2.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=790b7611017faf1f577ba176c0aecf4628c769c0729bff23&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0merol&label=Profile%20views&color=0e75b6&style=flat" alt="r0merol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=0e75b6&style=flat" alt="farisfaikar" /> </p>
 
 - 🔭 I’m currently working on **a future discord bot which I haven't started yet**
 
@@ -29,18 +29,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0merol&show_icons=true&locale=en&theme=tokyonight" alt="r0merol" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight" alt="farisfaikar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r0merol&show_icons=true&locale=en&theme=tokyonight" alt="r0merol" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight" alt="farisfaikar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0merol&theme=tokyonight" alt="r0merol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farisfaikar&theme=tokyonight" alt="farisfaikar" /></p>
 
 <h3 align="left">Activity Graph:</h3>
 
-[![R0merol's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=r0merol&theme=tokyo-night)](https://github.com/r0merol/github-readme-activity-graph)
+[![farisfaikar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=farisfaikar&theme=tokyo-night)](https://github.com/farisfaikar/github-readme-activity-graph)
 
 <h3 align="left">Top Repos:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=r0merol&repo=number-game-v0.1&theme=tokyonight&hide_border=true" alt="r0merol"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=number-game-v0.1&theme=tokyonight&hide_border=true" alt="farisfaikar"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=r0merol&repo=bomber-plane-simulator&theme=tokyonight&hide_border=true" alt="r0merol"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=bomber-plane-simulator&theme=tokyonight&hide_border=true" alt="farisfaikar"></p>
