@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=0e75b6&style=flat" alt="farisfaikar" /> </p>
 
-- 🔭 I’m currently working on **a future discord bot which I haven't started yet**
+- 🔭 I’m currently working on **a Django website**
 
 - 🌱 I’m currently learning **Back-End, Javascript, and pretty much all those interesting stuffs**
 
