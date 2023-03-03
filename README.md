@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a Django website**
 
-- 🌱 I’m currently learning **Back-End, Javascript, and pretty much all those interesting stuffs**
+- 🌱 I’m currently learning **Back-End, Javascript, possibly even Full-Stack, and pretty much all those interesting stuffs**
 
 - 🤝 I’m looking for help with **Hacktoberfest this year**
 
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/farisfaikar_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farisfaikar_r" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/farisfaikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farisfaikar" height="30" width="40" /></a>
 <a href="https://instagram.com/farisfaikar_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farisfaikar_r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsNuyz0uf6EsizhWoBgivDQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faris razannafi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@farisfaikar_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faris razannafi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,6 +41,6 @@
 
 <h3 align="left">Top Repos:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=number-game-v0.1&theme=tokyonight&hide_border=true" alt="farisfaikar"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=number-game&theme=tokyonight&hide_border=true" alt="farisfaikar"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=bomber-plane-simulator&theme=tokyonight&hide_border=true" alt="farisfaikar"></p>
