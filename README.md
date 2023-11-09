@@ -77,11 +77,3 @@
 <h3 align="left">Activity Graph:</h3>
 
 [![farisfaikar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farisfaikar&theme=tokyo-night)](https://github.com/farisfaikar/github-readme-activity-graph)
-
-<h3 align="left">Top Repos:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=number-game&theme=tokyonight&hide_border=true" alt="number-game"></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=bomber-plane-simulator&theme=tokyonight&hide_border=true" alt="bomber-plane-simulator"></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=farisfaikar&repo=readiverse&theme=tokyonight&hide_border=true" alt="readiverse"></p>
