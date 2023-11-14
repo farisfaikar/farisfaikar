@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **farisfaikar.r@gmail.com**
 
-- ⚡ Fun fact **I'm inside your closet**
+- ⚡ Fun fact **I love Bossa Nova**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
