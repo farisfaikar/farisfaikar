@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on lots of **Laravel websites**
 
-- 🌱 I’m currently learning **Full-Stack, Back-End, PHP, Django, and pretty much all those interesting WebDev stuff**
+- 🌱 I’m currently learning **Full-Stack, PHP, the TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire), and pretty much all those interesting WebDev stuff**
 
 - 🤝 I’m looking for help with **Hacktoberfest this year**
 
