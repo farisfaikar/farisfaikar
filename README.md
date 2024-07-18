@@ -32,21 +32,25 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="git" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/></a> 
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/dbeaver_94555.png" alt="dbeaver" width="40" height="40"/></a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/></a> 
+<a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://www.codeigniter.com/assets/icons/ci-logo.png" alt="codeigniter" width="40" height="40"/></a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"><img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="40" height="40"/></a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/></a> 
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51960834?s=400&v=4" alt="livewire" width="40" height="40"/></a> 
+<a href="https://laragon.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:800/1*SNA3tR3GPoiPNTH8ZR_fVA.png" alt="laragon" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
 <a href="https://flowbite.com/" target="_blank" rel="noreferrer"><img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.png" alt="flowbite" width="40" height="40"/></a> 
@@ -58,9 +62,10 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/id_en/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premier pro" width="40" height="40"/></a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="archlinux" width="40" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"><img src="https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/></a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="unity" width="40" height="40"/></a> 
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
