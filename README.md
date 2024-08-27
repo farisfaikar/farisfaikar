@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=0e75b6&style=flat" alt="farisfaikar" /> </p>
 
-- 🔭 I’m building apps using **Next.js**. I occasionally work on **Laravel** too
+- 🔭 I’m building apps using **Next.js**. I occasionally work on **Laravel**
 
-- 🌱 I’m currently learning **Full-Stack, PHP, the TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire), and pretty much all those interesting WebDev stuff**
+- 🌱 I’m currently learning **Full-Stack, Next.js, React.js, Typescript, Tailwind, and pretty much all those interesting WebDev stuff**
 
 - 🤝 I’m looking for help with **Hacktoberfest this year**
 
-- 💬 Ask me about **Python, Pygame and Laravel**
+- 💬 Ask me about **Laravel, Python, and Pygame**
 
 - 📫 How to reach me **farisfaikar.r@gmail.com**
 
