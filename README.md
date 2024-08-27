@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=0e75b6&style=flat" alt="farisfaikar" /> </p>
 
-- 🔭 I’m currently working on lots of **Laravel websites**
+- 🔭 I’m building apps using **Next.js**. I occasionally work on **Laravel** too
 
 - 🌱 I’m currently learning **Full-Stack, PHP, the TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire), and pretty much all those interesting WebDev stuff**
 
@@ -48,7 +48,7 @@
 <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://www.codeigniter.com/assets/icons/ci-logo.png" alt="codeigniter" width="40" height="40"/></a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/></a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51960834?s=400&v=4" alt="livewire" width="40" height="40"/></a> 
 <a href="https://laragon.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:800/1*SNA3tR3GPoiPNTH8ZR_fVA.png" alt="laragon" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
