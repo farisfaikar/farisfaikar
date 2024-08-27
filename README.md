@@ -11,7 +11,7 @@
 
 - 🔭 I’m building apps using **Next.js**. I occasionally work on **Laravel**
 
-- 🌱 I’m currently learning **Full-Stack, Next.js, React.js, Typescript, Tailwind, and pretty much all those interesting WebDev stuff**
+- 🌱 I’m currently learning **Full-Stack, Next.js, React.js, Typescript, Tailwind, and diving deep into Javascript-land**
 
 - 🤝 I’m looking for help with **Hacktoberfest this year**
 
