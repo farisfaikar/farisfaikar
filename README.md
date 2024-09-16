@@ -79,7 +79,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,alpinejs,rust,html,css,js,cs,cpp,c,py,java,notion,gitlab,vim,figma,ai)](https://skillicons.dev)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=nextjs,laravel,react,ts,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,php,rust,notion,html,css,js,cs,cpp,c,py,alpinejs,anaconda,arduino,clion,django,docker,figma,git,github,gitlab,githubactions,godot,ai,java,md,neovim,nodejs,npm,opencv,ps,phpstorm,pnpm,powershell,pr,tensorflow,ubuntu,vim,visualstudio,vscode,windows&perline=9)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=nextjs,laravel,react,ts,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,php,rust,notion,html,css,js,cs,cpp,c,py,alpinejs,anaconda,arduino,clion,django,docker,figma,git,github,gitlab,githubactions,godot,ai,java,md,neovim,nodejs,npm,opencv,ps,phpstorm,pnpm,powershell,pr,tensorflow,ubuntu,vim,visualstudio,vscode,windows,java,gitlab,vim,figma,ai)](https://skillicons.dev) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight" alt="farisfaikar" /></p>
 
