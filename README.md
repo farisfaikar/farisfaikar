@@ -77,7 +77,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>  -->
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,alpinejs,rust,html,css,js,cs,cpp,c,py,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,alpinejs,rust,html,css,js,cs,cpp,c,py,java,notion,gitlab,vim,figma,ai)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=nextjs,laravel,react,ts,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,php,rust,notion,html,css,js,cs,cpp,c,py,alpinejs,anaconda,arduino,clion,django,docker,figma,git,github,gitlab,githubactions,godot,ai,java,md,neovim,nodejs,npm,opencv,ps,phpstorm,pnpm,powershell,pr,tensorflow,ubuntu,vim,visualstudio,vscode,windows&perline=9)](https://skillicons.dev) -->
 
