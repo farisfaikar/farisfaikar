@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Laravel, Python, and Pygame**
 
-- 📫 How to reach me **farisfaikar.r@gmail.com**
+- 📫 How to reach me? Hit me up on **[linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)**
 
 - ⚡ Fun fact **I love Bossa Nova**
 
