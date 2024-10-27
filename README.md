@@ -32,7 +32,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,alpinejs,rust,html,css,js,cs,cpp,c,py,java,notion,gitlab,vim,figma,ai)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight" alt="farisfaikar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight&hide=python" alt="farisfaikar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight" alt="farisfaikar" /></p>
 
