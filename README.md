@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Page!;I+do+Next.js+and+Laravel;Excited+to+learn+new+technologies;Interested+in+WebDev+and+Full-Stack;I+use+Arch+btw;Follow+me+for+more!" alt="Typing SVG" /></a>
 </p>
 
-[![An image of @r0merol's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/r0merol)](https://holopin.io/@r0merol)
+[![@r0merol's Holopin badges](https://holopin.me/r0merol)](https://holopin.io/@r0merol)
 
 <img align="right" alt="Elliot Alderson" width="350" src="https://media2.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=790b7611017faf1f577ba176c0aecf4628c769c0729bff23&rid=giphy.gif&ct=g">
 
