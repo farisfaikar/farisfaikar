@@ -7,27 +7,22 @@
 
 <img align="right" alt="Elliot Alderson" width="350" src="https://media2.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=790b7611017faf1f577ba176c0aecf4628c769c0729bff23&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=0e75b6&style=flat" alt="farisfaikar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=lightgrey&style=for-the-badge&base=1000" alt="farisfaikar" /> </p>
 
-- 🔭 I’m building apps using **Next.js**. I occasionally work on **Laravel**
+- [x] Building apps using **Next.js**. Occasionally works on **Laravel**
+- [x] Learning **Next.js** - diving deep into **Javascript-land** territory
+- [x] Participating in **Hacktoberfest** this year
+- [x] Ask me anything about **Laravel, Next.js, Python, and Pygame**
+- [x] **Hit me up** on [linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)
+- [x] **Bossa Nova** is life, **Bossa Nova** is love
 
-- 🌱 I’m currently learning **Full-Stack, Next.js, React.js, Typescript, Tailwind, and diving deep into Javascript-land**
-
-- 🤝 I’m looking for help with **Hacktoberfest this year**
-
-- 💬 Ask me about **Laravel, Next.js, Python, and Pygame**
-
-- 📫 How to reach me? Hit me up on **[linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)**
-
-- ⚡ Fun fact **I love Bossa Nova**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Hit me up</h3>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farisfaikar)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/farisfaikar_r)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/farisfaikar_0)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools and Stuff</h3>
 <p align="left"> 
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,tailwind,prisma,supabase,vercel,arch,linux,postgres,mysql,bootstrap,postman,alpinejs,rust,html,css,js,cs,cpp,c,py,java,notion,gitlab,vim,figma,ai)](https://skillicons.dev)
@@ -38,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farisfaikar&theme=tokyonight" alt="farisfaikar" /></p>
 
-<h3 align="left">Activity Graph:</h3>
+<h3 align="left">Useless Graphs</h3>
 
 [![farisfaikar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farisfaikar&theme=tokyo-night)](https://github.com/farisfaikar/github-readme-activity-graph)
