@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=lightgrey&style=for-the-badge&base=1000" alt="farisfaikar" /> </p>
 
 - [x] Building apps using **Next.js**. Occasionally works on **Laravel**
-- [x] Learning **Next.js** - diving deep into **Javascript-land** territory
+- [x] Learning **Next.js**—diving deep into **Javascript-land** territory
 - [x] Participating in **Hacktoberfest** this year
 - [x] Ask me anything about **Laravel, Next.js, Python, and Pygame**
 - [x] **Hit me up** on [linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)
