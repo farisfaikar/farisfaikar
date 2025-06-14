@@ -17,7 +17,7 @@
 - [x] **Bossa Nova** is life, **Bossa Nova** is love
 - [ ] Also, btw, did I mention that I use **Arch** btw?
 
-<h3 align="left">Reach me here</h3>
+<h3 align="left">Slide into my DMs (respectfully)</h3>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farisfaikar)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/farisfaikar_r)
