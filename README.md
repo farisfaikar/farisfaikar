@@ -15,6 +15,7 @@
 - [x] Ask me anything about **Laravel, Next.js, Python, and Pygame**
 - [x] **Hit me up** on [linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)
 - [x] **Bossa Nova** is life, **Bossa Nova** is love
+- [ ] Also, btw, did I mention that I use **Arch** btw?
 
 <h3 align="left">Reach me here</h3>
 
