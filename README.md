@@ -16,7 +16,7 @@
 - [x] **Hit me up** on [linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)
 - [x] **Bossa Nova** is life, **Bossa Nova** is love
 
-<h3 align="left">Hit me up</h3>
+<h3 align="left">Reach me here</h3>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farisfaikar)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/farisfaikar_r)
