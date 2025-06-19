@@ -10,11 +10,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farisfaikar&label=Profile%20views&color=lightgrey&style=for-the-badge&base=1000" alt="farisfaikar" /> </p>
 
 - [x] Building apps using **Laravel**. Occasionally works on **Next.js**
-- [x] Learning **Next.js**—diving deep into **Javascript-land** territory
+- [x] Mastering **Next.js**—diving deep into **Javascript-land** territory
 - [x] Participating in **Hacktoberfest** this year
 - [x] Ask me anything about **Laravel, Next.js, Python, and Pygame**
 - [x] **Hit me up** on [linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)
 - [x] **Bossa Nova** is life, **Bossa Nova** is love
+- [x] I'm an avid gamer of this weird 2003 game called **Space Station 13**
 - [ ] Also, btw, did I mention that I use **Arch** btw?
 
 <h3 align="left">Slide into my DMs (respectfully)</h3>
