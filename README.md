@@ -15,8 +15,6 @@
 - [x] Ask me anything about **Laravel, Next.js, Python, and Pygame**
 - [x] **Hit me up** on [linkedin.com/in/farisfaikar](https://linkedin.com/in/farisfaikar)
 - [x] **Bossa Nova** is life, **Bossa Nova** is love
-- [x] Avid gamer of this weird 2003 game called **Space Station 13**
-- [ ] Also, btw, did I mention that I use **Arch** btw?
 
 <h3 align="left">Slide into my DMs (respectfully)</h3>
 
